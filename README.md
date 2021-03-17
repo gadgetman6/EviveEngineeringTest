@@ -22,7 +22,7 @@ python main.py < input.txt
 ```bash
 python main.py
 ```
-2. Type input desired to read into the program. Press enter to run the program on input.
+2. Type input desired to be read into the program. Press enter to run the program on input.
 3. Program output will be printed in command line.
 
 
