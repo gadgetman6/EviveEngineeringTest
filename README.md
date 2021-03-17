@@ -4,7 +4,7 @@ This program contains an object-oriented menu ordering system built to facilitat
 
 ## Dependencies
 
-This program requres a working version of Python (3.7.6 or greater) to be installed on the user's machine
+This program requres a working version of Python 3 (3.7.6 or greater) to be installed on the user's machine
 
 ## Usage
 
